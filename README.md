@@ -25,4 +25,5 @@ Key features:
 2.Create Relationships to Merge Data 
 
 3.Build Unified Visual Reports 
+
 Note:I have attached the images of data from excel,csv type files and integrated image of the data in excel and csv.Henceforth created an integrated report with interactive charts.
